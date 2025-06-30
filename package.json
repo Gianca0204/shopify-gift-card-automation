@@ -1,0 +1,8 @@
+{
+  "name": "shopify-gift-card-automation",
+  "version": "1.0.0",
+  "description": "Automatización de tarjetas regalo para segundo pedido",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
